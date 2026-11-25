@@ -1,5 +1,11 @@
 # One-Line Gadget Roast
 
+![Competition](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610.svg)
+![Rank](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/RenaldiRenaldi/gadget-roast-01/rank.svg)
+![Reward](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/RenaldiRenaldi/gadget-roast-01/reward.svg)
+
+https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610
+
 This entry is for make.fun's **One-Line Roast: The Gadget You Use Every Day** competition. It roasts a smartwatch that treats standing up as a major personal achievement:
 
 > My smartwatch congratulates me for standing up, as if sitting was the hard part.
